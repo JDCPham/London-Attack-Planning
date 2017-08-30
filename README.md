@@ -1,0 +1,2 @@
+# London-Attack-Planning
+PDDL is short for Planning Domain Definition Language, and it was invented in attempt to standardise Artificial Intelligence languages. In this project, we used PDDL and Heuristic Searching to attempt and find the best response for emergency services to save lives and clear an area by taking casualties to hospitals and blocking roads in a simulated terrorist attack in Central London. We mapped out the main roads in Zone 1 in London, plotted nearby hospitals and police stations and ran a simulation on various scenarios.
